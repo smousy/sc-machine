@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Add codeql analysis
 - Test for utils for work with actions and their results
 - Handle and save sc-server subcommands errors
 - Add sc-server healthcheck
